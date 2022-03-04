@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #333;
+    color: #fff;
+}
+
+.text{
+    text-align: justify;
+}
+
+.box {
+    background-color: #666;
+    width: 100px;
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid lightcoral;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link {
+    color: #fff;
+    display: block;
+    background-color: #666;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    margin-bottom: 20px;
+    
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+body{
+    background-color: #333;
+}
+
+.title{
+    color: cyan;
+    font-size: 30px;
+}
+
+.text{
+    color: green;
+}
+
+.list{
+    color: indianred;
+}

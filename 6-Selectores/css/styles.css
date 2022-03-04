@@ -1,0 +1,66 @@
+ */*{
+    background-color: lightcoral;
+}
+
+h1{
+    background-color: lightcyan;
+}
+
+p{
+    background-color: lightgreen;
+} */
+
+
+#title{
+background-color: lightgreen;
+}
+.title{
+    background-color: lightsalmon;
+}
+
+.text{
+    background-color: lightgreen;
+}
+
+[href]{
+    background-color: mediumorchid;
+}
+
+[href="https://google.com"]{
+    background-color: orangered;
+}
+
+[href^="color"]{
+    background-color: red;
+}
+
+[href*="color"]{
+    background-color: green;
+}
+
+[href$="azul"]{
+    background-color: blue;
+}
+
+[lang|="en"]{
+    background-color:;
+}
+
+.text,
+.text-2,
+.text-3
+.text-4{
+    background-color: steelblue;
+}
+
+div .title-2{
+  /*  background-color: blue; */
+}
+
+.text-2 + h2{
+    background-color: tomato;
+}
+
+.text-2 ~ .text{
+    background-color: teal;
+}

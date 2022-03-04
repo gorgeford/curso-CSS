@@ -1,0 +1,41 @@
+body{
+    background-color: #333;
+    color: #fff;
+    
+
+}
+/*.header{
+    background-color: lightcoral;
+    height: 100px;
+    margin-bottom: 20px;
+    padding-top: 0.1px;
+}
+
+.box-1,
+.box-2{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-color: lightcyan;
+    width: 300px;
+    height: 300px;
+
+}*/
+
+.border,
+.outlne{
+    background-color: #666;
+    width: 100px;
+    padding: 10px 25px;
+    margin: 50px 100px;
+}
+
+.border{
+    border: 2px solid lightcoral;
+}
+
+.outline{
+    outline: 3px solid lightcoral;
+    outline-offset: 13px;
+    border: 3px solid lightgreen;
+}
