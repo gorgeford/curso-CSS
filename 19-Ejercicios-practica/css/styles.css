@@ -1,0 +1,63 @@
+body {
+    background-color: lightgrey;
+    color: red;
+    margin: 0;
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+}
+
+.title {
+    color: blue;
+    text-align: center;
+    margin: 0;
+    font-size: 40px;
+    margin-bottom: 10px;
+
+}
+
+
+.fieldset-1 {
+    width: 500px;
+    margin: auto;
+    background: rgba(0,0,0,0.1);
+    padding: 30px 30px;
+    border-color: darkgoldenrod;
+    border-radius: 10px;
+    border: solid 5px;
+    margin-bottom: 10px;
+}
+
+textarea {
+    background: rgba(0,0,0,0.2) ;
+    border-radius: 10px;
+}
+
+input {
+    background: rgba(0,0,0,0.2);
+    
+}
+input-type {
+    background: rgba(0,0,0,0.2);
+}
+.fieldset-2 {
+    width: 670px;
+    margin: auto;
+    background: rgba(0,0,0,0.1);
+    padding: 30px 30px;
+    border-radius: 10px;
+    border: solid 5px;
+    margin-bottom: 10px;
+}
+ 
+select
+option {
+    background: rgba(0,0,0,0.2
+}
+
+.box-1 {
+
+ color: blue;
+    text-align: center;
+    margin: 0;
+}
+

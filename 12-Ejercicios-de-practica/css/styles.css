@@ -4,7 +4,7 @@ body{
     
 
 }
-/*.header{
+.header{
     background-color: lightcoral;
     height: 100px;
     margin-bottom: 20px;
@@ -20,9 +20,9 @@ body{
     width: 300px;
     height: 300px;
 
-}*/
+}
 
-.border,
+/*.border,
 .outlne{
     background-color: #666;
     width: 100px;
@@ -38,4 +38,4 @@ body{
     outline: 3px solid lightcoral;
     outline-offset: 13px;
     border: 3px solid lightgreen;
-}
+}*/s
